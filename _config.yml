@@ -1,0 +1,11 @@
+title: My Blog
+description: Building AI systems, voice agents & architecture
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - topics.md
+
+# Show excerpts on homepage
+show_excerpts: true
