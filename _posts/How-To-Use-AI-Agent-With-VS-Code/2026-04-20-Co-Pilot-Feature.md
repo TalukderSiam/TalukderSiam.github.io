@@ -15,7 +15,7 @@ tags: [ai, architecture, voice-agent]
 
 Premium requests — Enterprise plan includes a higher monthly allowance than Business ($19/mo plan). Exact quota set by your admin. Unused requests do NOT roll over each month (reset on the 1st at 00:00 UTC).
 Plan	Included models (no cost)	Premium requests	Price
-Copilot Enterprise	GPT-4.1, GPT-4o, GPT-5 mini	Higher allowance (set by admin)	$39/user/mo
+Copilot Enterprise	GPT-4.1, GPT-4o, GPT-5 mini	Higher allowance (set by admin)	$39/user/mo...
 Copilot Business	Same included models	Lower allowance	$19/user/mo
 Context window — Copilot Chat in VS Code supports up to 192k tokens. ~30–40% is reserved for output (system prompt + response buffer), giving you ~100k+ tokens for your actual code and prompts. This is managed on the backend — you cannot configure it.
 Premium request multipliers — Advanced models cost more per request. Example: GPT-5 mini = free (included), Claude Sonnet = multiplier ~1x, Claude Opus-class = high multiplier (5–30×). Model choice directly affects how fast you use your monthly allowance.
