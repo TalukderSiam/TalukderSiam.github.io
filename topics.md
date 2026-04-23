@@ -9,7 +9,7 @@ title: Topics
 {% endfor %}
 
 ## 🧠 How-To-Use-AI-Agent-With-VS-Code
-{% for post in site.categories.system-design %}
+{% for post in site.categories.How-To-Use-AI-Agent-With-VS-Code %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
