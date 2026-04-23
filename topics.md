@@ -8,6 +8,11 @@ title: Topics
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
+## 🧠 How-To-Use-AI-Agent-With-VS-Code
+{% for post in site.categories.system-design %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 ## 🤖 AI Agents
 {% for post in site.categories.ai-agents %}
 - [{{ post.title }}]({{ post.url }})
